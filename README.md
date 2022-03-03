@@ -5,7 +5,7 @@
 I'm Pulkit Bhargava, second year Computer Science undergraduate at PDPM IIITDM Jabalpur. I'm a software engineer 👨‍💻 who is passionate about web development and problem solving.
 
 - 🔭 I’m currently working on web application in ReactJS
-- 💬 Ask me about: tech, memes, anime
+- 💬 Ask me about: tech, memes
 - 😄 Pronouns: he/him
 -  ⚡ Languages: C++, Javascript, NodeJs, ReactJS
 
