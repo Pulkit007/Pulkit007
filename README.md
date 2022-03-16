@@ -13,8 +13,8 @@ I'm Pulkit Bhargava, second year Computer Science undergraduate at PDPM IIITDM J
 
 <br/>
 <p align="left">
-  <img height="50%" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pulkit007&show_icons=true&theme=dark&hide_border=true" />
-  <img height="50%" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pulkit007&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  <img height="50%" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pulkit007&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="50%" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pulkit007&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
  </a>
 </p>
 <br>
